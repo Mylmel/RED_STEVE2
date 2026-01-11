@@ -1,0 +1,17 @@
+{
+  "name": "RED_STEVE",
+  "short_name": "QubeForge",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#87ceeb",
+  "theme_color": "#87ceeb",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
