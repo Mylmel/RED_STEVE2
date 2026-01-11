@@ -1,0 +1,5 @@
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu' # Или 'temurin'
+          java-version: '21'    # <--- ИЗМЕНИТЕ С 17 НА 21
